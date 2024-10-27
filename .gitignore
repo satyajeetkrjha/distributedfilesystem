@@ -1,0 +1,10 @@
+# Ignore the binary output directory
+bin/
+
+# Ignore Go mod cache and dependency files (optional)
+go.sum
+
+# Ignore temporary build files or outputs
+*.out
+*.exe
+*.log
